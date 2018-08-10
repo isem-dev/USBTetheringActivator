@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">USB Tethering Activator</string>
+    <string name="tethering_string">Settings > Wireless networks > Tethering portable hotspot > Usb tethering: Tethered</string>
+</resources>
